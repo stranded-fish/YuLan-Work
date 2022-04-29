@@ -23,7 +23,7 @@ jobs:
 
       # 构建 Hugo 静态页面
       - name: Build
-        run: hugo -D && pwd && ls public -al
+        run: hugo --minify
 
       # 将静态页面部署至 ECS
       - name: Deploy to ECS
