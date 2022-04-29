@@ -32,6 +32,6 @@ jobs:
           local: public                                 # 待复制的本地文件路径
           remote: /web/hugo/public                      # ECS 路径
           host: ${{ secrets.HOST }}                     # ECS 域名 或 IP 地址
-          username: ${{ secrets.SSH_USER }}             # 登录用户名
+          username: ${{ secrets.SSH_USERNAME }}         # 登录用户名
           password: ${{ secrets.SSH_PASSWORD }}         # 登录密码
           port: ${{ secrets.SSH_PORT }}                 # scp 端口号（默认 22）
