@@ -1,5 +1,6 @@
 # VS Code
 *.code-workspace
 
-# local public
+# local hugo files
 public
+.hugo_build.lock
