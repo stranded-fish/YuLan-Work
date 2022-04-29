@@ -1,0 +1,37 @@
+name: github pages
+
+on:
+  push:
+    branches:
+      - main  # push 到 main 分支时触发 jobs
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true  # 更新子模块（hugo themes）
+          fetch-depth: 0
+
+      # 配置 Hugo 环境
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: latest
+          extended: true
+
+      # 构建 Hugo 静态页面
+      - name: Build
+        run: hugo -D && pwd && ls public -al
+
+      # 将静态页面部署至 ECS
+      - name: Deploy to ECS
+        uses: garygrossgarten/github-action-scp@release # 使用 scp 工具将静态页面远程复制到 ECS
+        with:
+          local: public                                 # 待复制的本地文件路径
+          remote: /web/hugo/public                      # ECS 路径
+          host: ${{ secrets.HOST }}                     # ECS 域名 或 IP 地址
+          username: ${{ secrets.SSH_USER }}             # 登录用户名
+          password: ${{ secrets.SSH_PASSWORD }}         # 登录密码
+          port: ${{ secrets.SSH_PORT }}                 # scp 端口号（默认 22）
