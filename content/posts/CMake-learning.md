@@ -2,7 +2,7 @@
 title: "CMake 学习"
 date: 2022-04-08T23:11:00+08:00
 draft: false
-tags: ["CMake"]
+tags: ["CMake", "C++"]
 slug: "CMake learning"
 ---
 

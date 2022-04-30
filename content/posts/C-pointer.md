@@ -1,8 +1,8 @@
 ---
 title: "C 指针学习"
-date: 2021-3-31T20:15:00+08:00
+date: 2021-03-31T20:15:00+08:00
 draft: false
-tags: ["C"]
+tags: ["C", "C++"]
 slug: "C pointer learning"
 ---
 
