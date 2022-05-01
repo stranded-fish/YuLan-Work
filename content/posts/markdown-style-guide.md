@@ -48,7 +48,7 @@ slug: "Markdown style guide"
 
 解释：连字符为当前网址最流行的分隔符，并且 Markdown 文件在上下文中经常使用：
 
-* 可能在同一个项目中有连字符分割的HTML文件使用Markdown相同的目录。
+* 可能在同一个项目中有连字符分割的 HTML 文件使用 Markdown 相同的目录。
 * 文件名会被直接使用到 URL 中，比如: GitHub blobs。
 
 ## 文件布局
@@ -246,10 +246,15 @@ key                                               | command
 ```
 
 **step 1.** 第一步
+
 ......
+
 **step 2.** 第二步
+
 ......
+
 **step 3.** 第三步
+
 ......
 
 **case 2.** 单个步骤涉及到较多内容，但仍需要使用 1. 2. 排序，且不想自动缩进。
@@ -259,13 +264,16 @@ key                                               | command
 ```markdown
 1\. `while` 循环条件用 `<=`。
 ......
-2\. 对 nums[mid] == target 情况进行处理
+2\. 对 `nums[mid] == target` 情况进行处理
 ......
 ```
 
 1\. `while` 循环条件用 `<=`。
+
 ......
-2\. 对 nums[mid] == target 情况进行处理
+
+2\. 对 `nums[mid] == target` 情况进行处理
+
 ......
 
 ### 平级列表
@@ -284,10 +292,15 @@ key                                               | command
 ```
 
 **eg 1. 在 for-each 循环中使用 entries 来遍历**
+
 ......
+
 **eg 2. 在 for-each 循环中遍历 keys**
+
 ......
+
 **eg 3. 在 for-each 循环中遍历 values**
+
 ......
 
 ## 参考链接
