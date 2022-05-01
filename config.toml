@@ -65,7 +65,8 @@ pygmentscodefencesguesssyntax = true
 # 社交地址配置
 [social]
   github = "https://github.com/stranded-fish"
-  mail = "mailto:547387388@qq.com"
+  mail = "mailto:zhouyulancq@foxmail.com"
+  wechat = "https://yulan.work/about/yulan_WeChat.png"
 
 [markup]
 [markup.goldmark]

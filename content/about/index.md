@@ -1,12 +1,21 @@
 ---
 title: "关于"
-date: 2018-12-29T20:24:28+08:00
-hidden: true
+date: 2021-09-01T00:00:00+08:00
 draft: false
 ---
 
-本 [主题](https://github.com/stranded-fish/hugo-theme-zozo) 基于 [Theme - zozo](https://github.com/varkai/hugo-theme-zozo) 二次修改。
+> **勤学如春起之苗，不见其增，日有所长；**
+> **辍学如磨刀之石，不见其损，日有所亏。**
 
-更多：
+**关于我：**
 
-TODO
+计算机科学与技术研一在读，热衷开源，对 C++、共识算法、分布式存储感兴趣。
+
+**找到我：**
+
+* [Github | stranded-fish](https://github.com/stranded-fish)
+
+**联系我：**
+
+* [Email](mailto:zhouyulancq@foxmail.com)
+* [WeChat](https://yulan.work/about/yulan_WeChat.png)
