@@ -2,7 +2,7 @@
 title: "More Effective C++ 1. 基础议题"
 date: 2022-04-07T16:28:00+08:00
 draft: false
-tags: ["C++"]
+tags: ["More Effective C++", "C++"]
 slug: "More Effective C++ chapter 1"
 ---
 

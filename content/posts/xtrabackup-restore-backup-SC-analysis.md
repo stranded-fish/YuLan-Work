@@ -2,8 +2,8 @@
 title: "Percona XtraBackup 全量恢复过程源码解析"
 date: 2021-04-13T10:31:00+08:00
 draft: false
-tags: ["xtrabackup"]
-slug: "xtrabackup restore backup SC analysis"
+tags: ["Percona XtraBackup"]
+slug: "Percona XtraBackup restore backup SC analysis"
 ---
 
 利用 `innobackupex` 工具实现全量压缩备份并转化为 xbstream 流格式后，会在指定路径生成 `.xbstream` 流压缩文件，通过该文件可实现数据库的全量恢复。

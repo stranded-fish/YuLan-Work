@@ -3,7 +3,7 @@ title: "CentOS 新建虚拟机 IP 设置"
 date: 2020-12-06T21:02:00+08:00
 draft: false
 tags: ["CentOS", "Linux"]
-slug: "centos-ip-config"
+slug: "CentOS ip configuration"
 ---
 
 VMware vSphere CentOS 7 虚拟机安装完成后，默认配置文件没有激活网络接口，且没有相关 IP 设置，若需要以静态 IP 方式联网，则需手动进行相关设置。

@@ -3,7 +3,7 @@ title: "Git 快速入门"
 date: 2021-01-25T08:27:00+08:00
 draft: false
 tags: ["Git"]
-slug: "git quick start"
+slug: "Git quick start"
 ---
 
 该教程主要针对：**Git 常用操作** 学习。

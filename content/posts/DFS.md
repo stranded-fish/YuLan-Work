@@ -2,7 +2,7 @@
 title: "深度优先搜索"
 date: 2021-08-27T14:22:00+08:00
 draft: false
-tags: ["algorithm"]
+tags: ["Algorithm"]
 slug: "Depth First Search"
 ---
 

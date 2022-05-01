@@ -1,9 +1,9 @@
 ---
-title: "CentOS 快速开始 - 常用软件"
+title: "CentOS 快速开始 - 常用软件安装"
 date: 2022-04-12T20:04:00+08:00
 draft: false
 tags: ["CentOS", "Linux"]
-slug: "CentOS beginning common tool"
+slug: "CentOS Beginning common tool installation"
 ---
 
 本文主要针对新建 **CentOS 7** 实例 **安装常用软件** 相关操作的总结。

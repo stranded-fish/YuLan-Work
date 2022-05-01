@@ -2,7 +2,7 @@
 title: "Floyd-Warshall"
 date: 2022-03-14T10:20:00+08:00
 draft: false
-tags: ["algorithm"]
+tags: ["Algorithm"]
 slug: "Floyd Warshall"
 ---
 

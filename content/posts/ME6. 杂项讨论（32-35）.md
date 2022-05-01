@@ -2,7 +2,7 @@
 title: "More Effective C++ 6. 杂项讨论"
 date: 2022-04-21T15:33:00+08:00
 draft: false
-tags: ["C++"]
+tags: ["More Effective C++", "C++"]
 slug: "More Effective C++ chapter 6"
 ---
 

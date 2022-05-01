@@ -2,8 +2,8 @@
 title: "Percona XtraBackup 安装与使用"
 date: 2021-04-01T14:35:00+08:00
 draft: false
-tags: ["xtrabackup"]
-slug: "xtrabackup-installation-and-usage"
+tags: ["Percona XtraBackup"]
+slug: "Percona XtraBackup installation and usage"
 ---
 
 Percona XtraBackup 是一个开源的 MySQL 热备份工具，利用该工具（2.4 版本）可以实现在 MySQL 5.5, 5.6 和 5.7 服务器上备份 InnoDB、XtraDB 和 MyISAM 表的数据，以及备份 Percona 服务器的 XtraDB MySQL。

@@ -2,7 +2,7 @@
 title: "广度优先搜索"
 date: 2021-08-19T22:22:00+08:00
 draft: false
-tags: ["algorithm"]
+tags: ["Algorithm"]
 slug: "Breadth First Search"
 ---
 

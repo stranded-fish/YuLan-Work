@@ -3,7 +3,7 @@ title: "CentOS 防火墙与端口管理"
 date: 2020-12-14T19:49:00+08:00
 draft: false
 tags: ["CentOS", "Linux"]
-slug: "centos firewall port management"
+slug: "CentOS firewall port management"
 ---
 
 本文主要针对 **CentOS 防火墙** 与 **端口** 管理等相关操作的总结。

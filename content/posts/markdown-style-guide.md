@@ -3,7 +3,7 @@ title: "Markdown 风格指南"
 date: 2020-11-10T16:25:00+08:00
 draft: false
 tags: ["Markdown"]
-slug: "markdown style guide"
+slug: "Markdown style guide"
 ---
 
 **Markdown 哲学：** 埏埴以为器，当其无，有器之用；凿户牖以为室，当其无，有室之用。故有之以为利，无之以为用。

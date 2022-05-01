@@ -2,7 +2,7 @@
 title: "C++ 数组"
 date: 2022-03-10T11:28:00+08:00
 draft: false
-tags: ["C++"]
+tags: ["C++ STL", "C++"]
 slug: "C++ array"
 ---
 

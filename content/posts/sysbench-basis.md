@@ -2,7 +2,7 @@
 title: "sysbench 安装与使用"
 date: 2021-04-02T21:04:00+08:00
 draft: false
-tags: ["sysbench"]
+tags: ["sysbench", "Linux"]
 slug: "sysbench installation and usage"
 ---
 

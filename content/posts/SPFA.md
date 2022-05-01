@@ -2,7 +2,7 @@
 title: "SPFA"
 date: 2022-03-22T10:49:00+08:00
 draft: false
-tags: ["algorithm"]
+tags: ["Algorithm"]
 slug: "SPFA"
 ---
 

@@ -2,7 +2,7 @@
 title: "Dijkstra"
 date: 2022-03-13T21:47:00+08:00
 draft: false
-tags: ["algorithm"]
+tags: ["Algorithm"]
 slug: "Dijkstra"
 ---
 

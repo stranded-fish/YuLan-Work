@@ -3,7 +3,7 @@ title: "Git Bash 美化"
 date: 2021-03-03T14:38:00+08:00
 draft: false
 tags: ["Git"]
-slug: "git bash beautification"
+slug: "Git bash beautification"
 ---
 
 该教程主要针对 **Git Bash 美化** 与 **风格修改**。

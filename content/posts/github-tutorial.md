@@ -2,7 +2,7 @@
 title: "Github 教程"
 date: 2021-01-24T22:11:00+08:00
 draft: false
-tags: ["Github"]
+tags: ["Github", "Git"]
 slug: "Github tutorial"
 ---
 
@@ -83,7 +83,7 @@ origin 代表远程分支，main 代表本地分支（可以将其替换为任�
 
 ## 多人协作
 
-TODO 提交 PR [参考内容](https://juejin.cn/post/6844903821521469448)
+提交 PR [参考内容](https://juejin.cn/post/6844903821521469448)
 
 ## 参考链接
 

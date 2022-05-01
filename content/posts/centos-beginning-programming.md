@@ -3,7 +3,7 @@ title: "CentOS 快速开始 - 编程环境配置"
 date: 2022-04-20T16:04:00+08:00
 draft: false
 tags: ["CentOS", "Linux"]
-slug: "CentOS beginning programming"
+slug: "CentOS Beginning programming configuration"
 ---
 
 本文主要针对新建 **CentOS 7** 实例 **配置编程环境** 相关操作的总结。

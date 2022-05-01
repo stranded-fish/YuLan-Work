@@ -3,7 +3,7 @@ title: "CentOS 快速开始 - 基础配置"
 date: 2022-04-03T23:04:00+08:00
 draft: false
 tags: ["CentOS", "Linux"]
-slug: "CentOS beginning basic configuration"
+slug: "CentOS Beginning basic configuration"
 ---
 
 本文主要针对新建 **CentOS 7** 实例 **相关基础配置** 总结。

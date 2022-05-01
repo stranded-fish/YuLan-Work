@@ -2,8 +2,8 @@
 title: "Percona XtraBackup 全量备份过程源码解析"
 date: 2021-04-12T10:57:00+08:00
 draft: false
-tags: ["xtrabackup"]
-slug: "xtrabackup full backup SC analysis"
+tags: ["Percona XtraBackup"]
+slug: "Percona XtraBackup full backup SC analysis"
 ---
 
 本文主要介绍 `innobackupex` 命令，在设置参数 `--compress`、`--stream=xbstream` 情况下对数据进行压缩并转化为 xbstream 流格式备份的全过程源码解析。

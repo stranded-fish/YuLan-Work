@@ -2,8 +2,8 @@
 title: "C++ 算法常用 API"
 date: 2022-02-26T11:26:00+08:00
 draft: false
-tags: ["C++"]
-slug: "C++ Common API for algorithms"
+tags: ["C++ STL", "C++"]
+slug: "C++ Common API for Algorithms"
 ---
 
 目录：

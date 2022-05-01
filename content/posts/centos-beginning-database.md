@@ -1,9 +1,9 @@
 ---
-title: "CentOS 快速开始 - 数据库"
+title: "CentOS 快速开始 - 数据库安装"
 date: 2022-04-15T20:04:00+08:00
 draft: false
 tags: ["CentOS", "Linux"]
-slug: "CentOS beginning database"
+slug: "CentOS Beginning database installation"
 ---
 
 本文主要针对新建 **CentOS 7** 实例 **安装常用数据库** 相关操作的总结。

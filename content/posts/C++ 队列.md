@@ -2,7 +2,7 @@
 title: "C++ 队列"
 date: 2022-02-19T19:01:00+08:00
 draft: false
-tags: ["C++"]
+tags: ["C++ STL", "C++"]
 slug: "C++ queue"
 ---
 
