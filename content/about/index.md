@@ -17,5 +17,5 @@ draft: false
 
 **联系我：**
 
-* [Email](mailto:zhouyulancq@foxmail.com)
+* [Email](mailto:zhou@yulan.work)
 * [WeChat](https://yulan.work/about/yulan_WeChat.png)
