@@ -1,6 +1,6 @@
 ---
 title: "Percona XtraBackup 全量备份过程源码解析"
-date: 2021-04-12T10:57:00+08:00
+date: 2021-04-13T10:57:00+08:00
 draft: false
 tags: ["Percona XtraBackup"]
 slug: "Percona XtraBackup full backup SC analysis"
@@ -79,7 +79,7 @@ typedef enum {
     DS_TYPE_ARCHIVE,  // 归档数据池
     DS_TYPE_XBSTREAM, // xbstream 数据池
     DS_TYPE_COMPRESS, // 压缩数据池
-    DS_TYPE_ENCRYPT,  //  加密数据池
+    DS_TYPE_ENCRYPT,  // 加密数据池
     DS_TYPE_DECRYPT,  // 解密数据池
     DS_TYPE_TMPFILE,  // 临时文件数据池
     DS_TYPE_BUFFER    // 缓冲数据池

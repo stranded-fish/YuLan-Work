@@ -1,6 +1,6 @@
 ---
 title: "Percona XtraBackup 全量恢复过程源码解析"
-date: 2021-04-13T10:31:00+08:00
+date: 2021-04-12T10:31:00+08:00
 draft: false
 tags: ["Percona XtraBackup"]
 slug: "Percona XtraBackup restore backup SC analysis"
