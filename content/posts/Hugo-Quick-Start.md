@@ -1,6 +1,6 @@
 ---
 title: "Hugo 快速开始"
-date: 2022-04-28T16:30:00+08:00
+date: 2022-04-29T13:30:00+08:00
 draft: false
 tags: ["Hugo"]
 slug: "Hugo Quick Start"

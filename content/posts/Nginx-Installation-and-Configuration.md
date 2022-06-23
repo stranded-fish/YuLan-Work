@@ -1,6 +1,6 @@
 ---
 title: "Nginx 安装与配置"
-date: 2022-04-29T17:34:00+08:00
+date: 2022-05-01T18:12:00+08:00
 draft: false
 tags: ["Nginx", "CentOS", "Linux"]
 slug: "Nginx Installation and Configuration"

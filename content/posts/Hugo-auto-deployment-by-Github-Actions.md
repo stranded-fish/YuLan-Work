@@ -1,6 +1,6 @@
 ---
 title: "Github Actions 自动化部署 Hugo 网站至 ECS"
-date: 2022-04-29T23:23:00+08:00
+date: 2022-06-11T20:32:00+08:00
 draft: false
 tags: ["Hugo", "Github"]
 slug: "Github Actions automatically deploy Hugo to ECS"
