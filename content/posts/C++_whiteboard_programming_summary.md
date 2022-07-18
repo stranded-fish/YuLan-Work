@@ -71,6 +71,7 @@ slug: "C++ Whiteboard Programming Summary"
 // 其他
 #include <functional>
 #include <random>
+#include <memory>
 
 using namespace std;
 
